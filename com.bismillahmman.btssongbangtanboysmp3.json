@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -67,8 +67,8 @@
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "NULL",
 
 "BUTTON_START" : "START",
-"BUTTON_SHARE" : "SHARE TO FRIEND",
-"BUTTON_RATING" : "RATING NOW",
+"BUTTON_SHARE" : "SHARE",
+"BUTTON_RATING" : "RATING",
 
 "EXIT_POPUP_DIALOG" : "Please help to give 5 stars rating",
 
